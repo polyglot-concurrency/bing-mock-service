@@ -1,0 +1,165 @@
+{
+  "_type": "SearchResponse",
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=vwtgViLYodjq9BMdbEcgw6OzcsT9nr-y93oXbDh24U4&v=1&r=https%3a%2f%2fwww.bing.com%2fsearch%3fq%3dlectures&p=DevEx,5224.1",
+    "totalEstimatedMatches": 12100000,
+    "value": [
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.0",
+        "name": "Lecture - Wikipedia",
+        "url": "https://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=Uy0qaTy6EF9fwpK3M28VmrOE1WVPEWAoQUhjh24WC2Y&v=1&r=https%3a%2f%2fen.wikipedia.org%2fwiki%2fLecture&p=DevEx,5048.1",
+        "displayUrl": "https://en.wikipedia.org/wiki/Lecture",
+        "snippet": "Bligh, in What's the Use of Lectures?, argues that lectures \"represent a conception of education in which teachers who know give knowledge to students who ...",
+        "dateLastCrawled": "2017-03-05T09:15:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.1",
+        "name": "Video Lectures • /r/lectures - reddit",
+        "url": "https://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=QhrmFWO1fPe_oax8ZRjuqBBOPbQRnV_1l8bettPhAZY&v=1&r=https%3a%2f%2fwww.reddit.com%2fr%2flectures%2f&p=DevEx,5062.1",
+        "displayUrl": "https://www.reddit.com/r/lectures",
+        "snippet": "reddit: the front page of the internet ... use the following search parameters to narrow your results: subreddit:subreddit",
+        "dateLastCrawled": "2017-02-16T03:45:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.2",
+        "name": "Lecture - definition of lecture by The Free Dictionary",
+        "url": "http://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=01t7v4nQsRS0VxvQ5cRRKfeh4F4m2vUrUEtO5dESY6A&v=1&r=http%3a%2f%2fwww.thefreedictionary.com%2flecture&p=DevEx,5076.1",
+        "displayUrl": "www.thefreedictionary.com/lecture",
+        "snippet": "to give a lecture or series of lectures: She spent the year lecturing to student groups. v.t. 4. to deliver a lecture to or before. 5.",
+        "dateLastCrawled": "2017-03-03T14:25:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.3",
+        "name": "Free University Lectures - Online Courses",
+        "url": "http://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=_moMGjkzSxvhxiSOJgjOACyQxW68aoErk5pWEX-Wwps&v=1&r=http%3a%2f%2fwww.onlinecourses.com%2flectures%2f&p=DevEx,5089.1",
+        "displayUrl": "www.onlinecourses.com/lectures",
+        "snippet": "Free online lectures. Explore, create, and track lectures from the world's top universities.",
+        "dateLastCrawled": "2017-03-05T15:15:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.4",
+        "name": "VideoLectures.NET - VideoLectures.NET",
+        "url": "http://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=Fh2t4-9vjwpfWL4I0OGlyJNqWqzKOvOQCeNgaMlDTN4&v=1&r=http%3a%2f%2fvideolectures.net%2f&p=DevEx,5102.1",
+        "displayUrl": "videolectures.net",
+        "snippet": "Preglov kolokvij na Kemijskem inštitutu Preglov kolovij je poimenovan po Frideriku (Fritzu) Preglu, kemiku in zdravniku slovenskega rodu, ki je ...",
+        "dateLastCrawled": "2017-03-05T16:44:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.5",
+        "name": "Free Video Lectures, Video tutorials and Online Video Courses",
+        "url": "http://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=Bavl3WdnJxA0sv1o9YecLCBInqmBKs5fwzyxa_Jbj-M&v=1&r=http%3a%2f%2ffreevideolectures.com%2f&p=DevEx,5115.1",
+        "displayUrl": "freevideolectures.com",
+        "snippet": "free video lectures, video tutorials and video courses from best colleges and universities. Videos are downloadable.",
+        "dateLastCrawled": "2017-03-02T22:45:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.6",
+        "name": "Lectures - New England Aquarium - neaq.org",
+        "url": "http://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=HVQI27GMEF4SjQ-UolNWkjzrvuMOnS0b_xNizIvGu4s&v=1&r=http%3a%2f%2fwww.neaq.org%2flearn%2flectures%2f&p=DevEx,5127.1",
+        "displayUrl": "www.neaq.org/learn/lectures",
+        "snippet": "The Aquarium Lecture Series is presented free to the public through the generosity of the Lowell Institute, which has been providing funding for free public lectures ...",
+        "dateLastCrawled": "2017-03-02T10:09:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.7",
+        "name": "Seattle Arts & Lectures",
+        "url": "https://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=qWL5El9uAkQK1WdrUgcoDU7iA1A1XyCPiZLTHk4zUog&v=1&r=https%3a%2f%2fwww.lectures.org%2f&p=DevEx,5140.1",
+        "displayUrl": "https://www.lectures.org",
+        "snippet": "03.02.17 SAL Seeks Graphic Designer. SAL is looking for a graphic designer to partner with the organization to provide ongoing design support for its events and ...",
+        "dateLastCrawled": "2017-03-05T23:15:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.8",
+        "name": "This is CS50",
+        "url": "https://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=utYZ7KOQBcaRyI596s9ZT4IGcehYL6zmHkxq9XOS2OU&v=1&r=https%3a%2f%2fcs50.harvard.edu%2fweeks&p=DevEx,5151.1",
+        "displayUrl": "https://cs50.harvard.edu/weeks",
+        "snippet": "Discuss FAQs FAQs Final Project Final Project Gradebook Lectures Problem Sets Quizzes Reference Sections Seminars Staff Study Style Guide Syllabus. With thanks to our ...",
+        "dateLastCrawled": "2017-03-06T03:34:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.9",
+        "name": "AcademicEarth.org - Free Online Courses From Top Colleges",
+        "url": "http://www.bing.com/cr?IG=B515BAD197BC4599AF3E651A9FD5E2EB&CID=037DA8C4AB466D9F3D61A2FAAA776C21&rd=1&h=RtaRlCPYVVmB8nGwfp-hEaDxnbCRnycLpOV5_q1422w&v=1&r=http%3a%2f%2facademicearth.org%2f&p=DevEx,5163.1",
+        "displayUrl": "academicearth.org",
+        "snippet": "Find free online courses, lectures, and videos from the best colleges in the country. Take online classes from schools like Yale, MIT and Stanford.",
+        "dateLastCrawled": "2017-03-03T05:01:00"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.9"
+          }
+        }
+      ]
+    }
+  }
+}
