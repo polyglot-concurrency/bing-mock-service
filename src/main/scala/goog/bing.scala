@@ -31,7 +31,7 @@ object bing extends App with JsonSupport {
 
   import akka.http.scaladsl.server.Directives._
 
-  val lines = scala.io.Source.fromFile("bing.json").mkString
+  val lines = scala.io.Source.fromFile("bing.json", "UTF-8").mkString
 
   val route: Route =
     get {
