@@ -13,7 +13,7 @@ import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
 import spray.json._
 
 import scala.io.StdIn
-import scala.util.{Failure, Success}
+import scala.util.{ Failure, Success }
 
 final case class Item(name: String, pos: Int)
 
@@ -39,7 +39,8 @@ object bing extends App with JsonSupport {
 
         //        val r = List(Item("other", 2), Item("other", 2))
         //        println("Sending: " + r.mkString(""))
-
+        Thread.sleep(3000)
+        println("BING")
         complete(lines)
       }
     }

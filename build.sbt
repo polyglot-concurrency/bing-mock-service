@@ -2,7 +2,7 @@
 scalaVersion := "2.11.8"
 
 
-ScalariformSupport.formatSettings
+//ScalariformSupport.formatSettings
 
 libraryDependencies ++= Seq(
   // base dependency needed for all the examples
